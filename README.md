@@ -2,6 +2,9 @@
 
 Este proyecto es una aplicación web desarrollada en **PHP**, **MySQL** y **WAMPServer**, que permite la gestión de medicamentos en un entorno de tipo inventario farmacéutico. Incluye funcionalidades CRUD (crear, leer, actualizar y eliminar) con interfaz amigable.
 
+---
+
+
 ## 📸 Capturas de pantalla
 
 
@@ -27,6 +30,9 @@ Este proyecto es una aplicación web desarrollada en **PHP**, **MySQL** y **WAMP
 - JavaScript / jQuery / SweetAlert2
 - WAMPServer (entorno local)
 - DataTables / Ajax
+
+
+---
 
 
 ✨ Funcionalidades
