@@ -54,4 +54,4 @@ Este proyecto es una aplicación web desarrollada en **PHP**, **MySQL** y **WAMP
 
 1. **Clona el repositorio**:
    ```bash
-  [ git clone https://github.com/tu_usuario/tu_repositorio.git](https://github.com/georincon/crud_inventario_medicamentos.git)
+  [ git clone https://github.com/georincon/crud_inventario_medicamentos.git](https://github.com/georincon/crud_inventario_medicamentos.git)
