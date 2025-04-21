@@ -61,7 +61,7 @@ $(document).on("click", ".btnEditar", function(){
     
     $(".modal-header").css("background-color", "#4e73df");
     $(".modal-header").css("color", "white");
-    $(".modal-title").text("Editar Persona");            
+    $(".modal-title").text("Editar Medicamento");            
     $("#modalCRUD").modal("show");  
     
 });
