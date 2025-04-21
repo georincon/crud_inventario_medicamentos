@@ -15,8 +15,11 @@ Este proyecto es una aplicación web desarrollada en **PHP**, **MySQL** y **WAMP
 - HTML5 / CSS3 / Bootstrap
 - JavaScript / jQuery / SweetAlert2
 - WAMPServer (entorno local)
+- DataTables / Ajax
+
 
 ✨ Funcionalidades
+
 ✅ Crear, ver, editar y eliminar medicamentos
 
 ✅ Validaciones básicas en los formularios
@@ -24,6 +27,7 @@ Este proyecto es una aplicación web desarrollada en **PHP**, **MySQL** y **WAMP
 ✅ Confirmación visual con SweetAlert2
 
 ✅ Tabla con estilos dinámicos (Bootstrap)
+
 
 ---
 ![image](https://github.com/user-attachments/assets/c4885d69-1b76-482e-8818-c5c4c585c65c)
